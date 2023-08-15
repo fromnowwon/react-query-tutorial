@@ -1,7 +1,11 @@
+import Nav from "./Nav"
 
 const HomePage = () => {
 	return (
-		<div>HomePage</div>
+		<div>
+			<Nav />
+			Homepage
+		</div>
 	)
 }
 
