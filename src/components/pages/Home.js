@@ -1,9 +1,6 @@
-import Nav from "../Nav"
-
 const HomePage = () => {
 	return (
 		<div>
-			<Nav />
 			Homepage
 		</div>
 	)
